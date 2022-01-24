@@ -56,8 +56,7 @@
 //	int ns=0x00000500;
 
 //
-//display_hexadecimal hexa_display;
-//display_hexadecimal hexa_icons;
+
 
 //
 //void r_number_assigment(int dizi[])
