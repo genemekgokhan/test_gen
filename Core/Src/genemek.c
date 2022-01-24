@@ -19,7 +19,7 @@
 #include"gpio.h"
 #include "tim.h"
 #include "can.h"
-#include "gen_display.h"
+
 
 
 gen_struct gen_s;
